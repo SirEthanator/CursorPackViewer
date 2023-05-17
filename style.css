@@ -51,11 +51,11 @@ p {
 }
 
 .vert {
-  cursor: ew-resize;
+  cursor: ns-resize;
 }
 
 .horz {
-  cursor: ns-resize;
+  cursor: ew-resize;
 }
 
 .dgn1 {
