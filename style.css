@@ -8,10 +8,11 @@ p {
   font-family: Varela Round, sans-serif;
   color: #ffffff;
   background: #404040;
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 10px 10px;
   text-align: center;
   font-size: 25px;
+  margin: 1px;
 }
 
 h1 {
