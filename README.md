@@ -1,5 +1,5 @@
 # CursorPackTester.github.io
 
-https://sirethanator.github.io/CursorPackViewer.github.io/
+https://cursorpackviewer.vercel.app
 
 Just a very basic website to view your cursors!
