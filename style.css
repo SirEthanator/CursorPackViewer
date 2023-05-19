@@ -23,62 +23,62 @@ h1 {
   cursor: default;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .help {
   cursor: help;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .pointer {
   cursor: pointer;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .progress {
   cursor: progress;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .wait {
   cursor: wait;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .crosshair {
   cursor: crosshair;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .text {
   cursor: text;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .move {
   cursor: move;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .no {
   cursor: not-allowed;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .vert {
   cursor: ns-resize;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .horz {
   cursor: ew-resize;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .dgn1 {
   cursor: nwse-resize;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ffffff;
 }
 
 .dgn2 {
