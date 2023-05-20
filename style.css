@@ -14,9 +14,15 @@ p {
   margin: 0px;
 }
 
-h1 {
+h2 {
   font-family: Varela Round;
   color: #ffffff;
+}
+
+h1 {
+  font-family: Varela Round, sans-serif;
+  color: #ffffff;
+  text-align: center;
 }
 
 .default {
