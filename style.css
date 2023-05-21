@@ -23,6 +23,11 @@ h1 {
   font-family: Varela Round, sans-serif;
   color: #ffffff;
   text-align: center;
+  background: transparent;
+  border-radius: 10px;
+  height: 10px;
+  width: 255px;
+  box-shadow: 0 55px 0 0 #000;
 }
 
 .default {
