@@ -25,14 +25,6 @@ h1 {
   text-align: center;
 }
 
-#heading {
-  background: transparent;
-  border-radius: 10px;
-  height: 10px;
-  width: 255px;
-  box-shadow: 0 55px 0 0 #000;
-}
-
 .default {
   cursor: default;
   border-top-left-radius: 5px;
