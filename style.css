@@ -23,6 +23,9 @@ h1 {
   font-family: Varela Round, sans-serif;
   color: #ffffff;
   text-align: center;
+}
+
+#heading {
   background: transparent;
   border-radius: 10px;
   height: 10px;
