@@ -2,7 +2,7 @@ html {
   height: 100%;
   width: 100%;
   background: rgb(0,0,0);
-  background: linear-gradient(132deg, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 50%); 
+  background: linear-gradient(132deg, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 50%) no-repeat center center fixed; 
 }
 
 p {
