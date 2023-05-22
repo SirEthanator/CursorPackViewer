@@ -8,7 +8,7 @@ html {
 p {
   font-family: Varela Round, sans-serif;
   color: #ffffff;
-  background-color: rgba(64,64,64,0.2);
+  background-color: rgba(64,64,64,0.4);
   padding: 10px 10px;
   text-align: center;
   font-size: 25px;
@@ -30,62 +30,62 @@ h1 {
   cursor: default;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .help {
   cursor: help;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .pointer {
   cursor: pointer;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .progress {
   cursor: progress;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .wait {
   cursor: wait;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .crosshair {
   cursor: crosshair;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .text {
   cursor: text;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .move {
   cursor: move;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .no {
   cursor: not-allowed;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .vert {
   cursor: ns-resize;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .horz {
   cursor: ew-resize;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .dgn1 {
   cursor: nwse-resize;
-  border-bottom: 1px solid rgba(96,96,96,0.2);
+  border-bottom: 1px solid rgba(96,96,96,0.4);
 }
 
 .dgn2 {
