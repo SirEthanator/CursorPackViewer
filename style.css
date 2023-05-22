@@ -1,13 +1,14 @@
 html {
   height: 100%;
   width: 100%;
-  background: #000000;
+  background: rgb(0,0,0);
+  background: linear-gradient(132deg, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 50%); 
 }
 
 p {
   font-family: Varela Round, sans-serif;
   color: #ffffff;
-  background: #404040;
+  backdrop-filter: blur(50px) saturate(70%);
   padding: 10px 10px;
   text-align: center;
   font-size: 25px;
