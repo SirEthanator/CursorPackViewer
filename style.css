@@ -57,7 +57,7 @@ color: #000000;
 .colormode {
   float: right;
   text-decoration: none;
-  size: 32px;
+  font-size: 32px;
 }
 
 .default {
