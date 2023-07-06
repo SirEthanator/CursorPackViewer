@@ -1,14 +1,18 @@
 html {
   height: 100%;
   width: 100%;
-  background: rgb(0,0,0);
-  background: linear-gradient(132deg, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 50%) no-repeat center center fixed; 
+}
+
+.dark {
+  background: #000000;
+}
+
+.light {
+  background: #FFFFFF;
 }
 
 p {
   font-family: Varela Round, sans-serif;
-  color: #ffffff;
-  background-color: rgba(64,64,64,0.4);
   padding: 10px 10px;
   text-align: center;
   font-size: 25px;
@@ -17,13 +21,41 @@ p {
 
 h2 {
   font-family: Varela Round;
-  color: #ffffff;
 }
 
 h1 {
   font-family: Varela Round, sans-serif;
-  color: #ffffff;
   text-align: center;
+}
+
+.darkp {
+  color: #ffffff;
+  background-color: rgba(64,64,64,0.4);
+}
+
+.lightp {
+  color: #000000;
+  background-color: rgba(191, 191, 191, 0.4);
+}
+
+.darkh2 {
+color: #ffffff;
+}
+
+.lighth2 {
+color: #000000;
+}
+
+.darkh1 {
+color: #ffffff;
+}
+
+.lighth1 {
+color: #000000;
+}
+
+.colormode {
+  float: right;
 }
 
 .default {
