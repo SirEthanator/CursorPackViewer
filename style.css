@@ -30,12 +30,12 @@ h1 {
 
 .darkp {
   color: #ffffff;
-  background-color: rgba(64,64,64,0.4);
+  background-color: rgba(191, 191, 191, 0.4);
 }
 
 .lightp {
   color: #000000;
-  background-color: rgba(191, 191, 191, 0.4);
+  background-color: rgba(64,64,64,0.4);
 }
 
 .darkh2 {
