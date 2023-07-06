@@ -1,5 +1,5 @@
-# CursorPackTester.github.io
+# Cursor Pack Viewer
 
-https://cursorpackviewer.vercel.app
+# https://cursorpackviewer.vercel.app
 
 Just a very basic website to view your cursors!
