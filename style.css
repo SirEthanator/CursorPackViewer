@@ -60,15 +60,27 @@ color: #000000;
   font-size: 32px;
 }
 
-.footer {
-  background-color: rgb(64, 64, 64);
+.darka {
   color: #41a0ff;
   font-family: Varela Round, sans-serif;
 }
 
+.lighta {
+  font-family: Varela Round, sans-serif;
+}
+
+.footer {
+  background-color: rgb(64, 64, 64);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0px 0px;
+}
+
 .lightfooter {
   background-color: rgb(191, 191, 191);
-  font-family: Varela Round, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0px 0px;
 }
 
 .default {
