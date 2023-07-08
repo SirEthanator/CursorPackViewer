@@ -17,7 +17,7 @@ iframe {
 }
 
 .light {
-  background: #FFFFFF;
+  background: #ffffff;
 }
 
 p {
@@ -52,19 +52,19 @@ h1 {
 }
 
 .darkh2 {
-color: #ffffff;
+  color: #ffffff;
 }
 
 .lighth2 {
-color: #000000;
+  color: #000000;
 }
 
 .darkh1 {
-color: #ffffff;
+  color: #ffffff;
 }
 
 .lighth1 {
-color: #000000;
+  color: #000000;
 }
 
 .colormode {
@@ -94,81 +94,80 @@ color: #000000;
   background-color: #1a1a1a;
   padding-top: 10px;
   padding-bottom: 10px;
-  margin: 0px 0px;
+  margin-top: 10px;
 }
 
 .lightfooter {
   background-color: #e5e5e5;
   padding-top: 10px;
   padding-bottom: 10px;
-  margin: 0px 0px;
+  margin-top: 10px;
 }
 
 .default {
   cursor: default;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .help {
   cursor: help;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .pointer {
   cursor: pointer;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .progress {
   cursor: progress;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .wait {
   cursor: wait;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .crosshair {
   cursor: crosshair;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .text {
   cursor: text;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .move {
   cursor: move;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .no {
   cursor: not-allowed;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .vert {
   cursor: ns-resize;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .horz {
   cursor: ew-resize;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .dgn1 {
   cursor: nwse-resize;
-  border-bottom: 1px solid rgba(96,96,96,0.4);
+  border-bottom: 1px solid rgba(96, 96, 96, 0.4);
 }
 
 .dgn2 {
   cursor: nesw-resize;
-border-bottom-left-radius: 5px;
-border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
-
