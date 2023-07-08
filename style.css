@@ -7,6 +7,10 @@ body {
   margin: 0px 0px;
 }
 
+iframe {
+  border-radius: 5px;
+}
+
 .dark {
   background: #000000;
 }
