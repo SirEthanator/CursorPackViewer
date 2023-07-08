@@ -18,6 +18,7 @@ body {
 p {
   font-family: Varela Round, sans-serif;
   padding: 10px 10px;
+  margin: 0px 10px;
   text-align: center;
   font-size: 25px;
 }
@@ -31,14 +32,18 @@ h1 {
   text-align: center;
 }
 
+.abouttext {
+  color: #ffffff;
+}
+
 .darkp {
   color: #ffffff;
-  background-color: rgba(64,64,64,0.4);
+  background-color: #1a1a1a;
 }
 
 .lightp {
   color: #000000;
-  background-color: rgba(191, 191, 191, 0.4);
+  background-color: #e5e5e5;
 }
 
 .darkh2 {
@@ -63,24 +68,31 @@ color: #000000;
   font-size: 32px;
 }
 
+.secretlink {
+  text-decoration: none;
+  color: #ffffff;
+}
+
 .darka {
   color: #41a0ff;
   font-family: Varela Round, sans-serif;
+  margin-left: 5px;
 }
 
 .lighta {
   font-family: Varela Round, sans-serif;
+  margin-left: 5px;
 }
 
 .footer {
-  background-color: rgb(64, 64, 64);
+  background-color: #1a1a1a;
   padding-top: 10px;
   padding-bottom: 10px;
   margin: 0px 0px;
 }
 
 .lightfooter {
-  background-color: rgb(191, 191, 191);
+  background-color: #e5e5e5;
   padding-top: 10px;
   padding-bottom: 10px;
   margin: 0px 0px;
