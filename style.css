@@ -71,9 +71,8 @@ h1 {
 }
 
 .colormode {
-  float: right;
+  text-align: right;
   text-decoration: none;
-  font-size: 32px;
 }
 
 .secretlink {
