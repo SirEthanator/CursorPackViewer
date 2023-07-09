@@ -85,11 +85,15 @@ h1 {
 .backbutton {
   background-color: #1a1a1a;
   padding: 10px;
+  text-decoration: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
   font-family: Varela Round, sans-serif;
 }
 
 .backbutton:hover {
-background-color: #41a0ff;
+  background-color: #41a0ff;
 }
 
 .darka {
