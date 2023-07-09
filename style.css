@@ -82,6 +82,16 @@ h1 {
   font-family: Varela Round, sans-serif;
 }
 
+.backbutton {
+  background-color: #1a1a1a;
+  padding: 10px;
+  font-family: Varela Round, sans-serif;
+}
+
+.backbutton:hover {
+background-color: #41a0ff;
+}
+
 .darka {
   color: #41a0ff;
   font-family: Varela Round, sans-serif;
