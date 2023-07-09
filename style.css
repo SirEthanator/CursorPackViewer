@@ -72,7 +72,7 @@ h1 {
 }
 
 .colormode {
-  text-align: right;
+  float: right;
   text-decoration: none;
 }
 
